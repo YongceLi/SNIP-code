@@ -1,0 +1,13 @@
+GPT2_small Original (Common Nouns): 83.75%
+GPT2_small Original (CBT-Prepositions): 91.55%
+# GPT2_small prune 20 random neurons in layer 10 (CBT-Prepositions): 91.45%
+# GPT2_small prune 20 related neurons in layer 10 (CBT-Prepositions): 91.6%
+GPT2_small prune 500 random neurons (CBT-Prepositions): 91.7%
+GPT2_small prune 1000 random neurons (CBT-Prepositions): 90.25%
+GPT2_small prune 2000 random neurons (CBT-Prepositions): 90.25%
+GPT2_small prune 100 related neurons (CBT-Prepositions): 89.85%
+GPT2_small prune 200 related neurons (CBT-Prepositions): 88.95%
+GPT2_small prune 500 related neurons (CBT-Prepositions): 88.6%
+GPT2_small prune 1000 related neurons (CBT-Prepositions): 88.3%
+GPT2_small prune 5000 random neurons (CBT-Prepositions) 83.7%
+
